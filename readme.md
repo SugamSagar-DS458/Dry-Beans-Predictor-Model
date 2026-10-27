@@ -110,4 +110,4 @@ Open your browser at `http://localhost:8501` to test custom bean measurements an
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) - feel free to use and adapt it for educational and practical applications.
+This project is for educational purpose feel free to use and adapt it for educational and practical applications.
