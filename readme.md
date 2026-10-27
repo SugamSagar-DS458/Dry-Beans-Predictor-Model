@@ -95,7 +95,7 @@ To launch the interactive predictor dashboard locally:
 streamlit run Dry_Beans_Predictor.py
 ```
 Open your browser at `http://localhost:8501` to test custom bean measurements and view prediction probabilities.
-
+[Streamlit Model](https://dry-beans-predictor-model-sugamsagar-ds458.streamlit.app)
 ---
 
 ## 🛠️ Tech Stack
